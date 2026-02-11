@@ -5,3 +5,4 @@ resource "azurerm_resource_group" "rg" {
 
 # new feature/101 added
 # To test conflict change in feature/102
+# To test conflict change in feature/101
